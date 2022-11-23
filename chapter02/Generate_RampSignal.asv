@@ -1,7 +1,0 @@
-close all
-clc
-%% Generate Ramp Signal using stem
-
-%% Parameter Setting
-fs = 10;
-t = 0 :
